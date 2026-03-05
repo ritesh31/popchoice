@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Inception",
+    "genre": "Sci-Fi, Thriller",
+    "description": "A skilled thief enters people's dreams to steal secrets from their subconscious.",
+    "year": 2010
+  },
+  {
+    "title": "Interstellar",
+    "genre": "Sci-Fi, Drama",
+    "description": "A team of astronauts travels through a wormhole near Saturn in search of a new home for humanity.",
+    "year": 2014
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "description": "A banker is wrongly convicted of murder and forms an unlikely friendship while enduring life in prison.",
+    "year": 1994
+  },
+  {
+    "title": "The Dark Knight",
+    "genre": "Action, Crime, Thriller",
+    "description": "Batman faces the Joker, a criminal mastermind who plunges Gotham City into chaos.",
+    "year": 2008
+  },
+  {
+    "title": "Pulp Fiction",
+    "genre": "Crime, Drama",
+    "description": "The lives of two hitmen, a boxer, and a gangster's wife intertwine in a series of darkly comic tales.",
+    "year": 1994
+  },
+  {
+    "title": "The Matrix",
+    "genre": "Sci-Fi, Action",
+    "description": "A hacker discovers reality is a simulation and joins a rebellion against the machines controlling humanity.",
+    "year": 1999
+  },
+  {
+    "title": "Forrest Gump",
+    "genre": "Drama, Romance",
+    "description": "A slow-witted but kind-hearted man from Alabama witnesses and unwittingly influences major historical events.",
+    "year": 1994
+  },
+  {
+    "title": "Parasite",
+    "genre": "Thriller, Drama, Comedy",
+    "description": "A poor family schemes their way into the employment of a wealthy household with unexpected consequences.",
+    "year": 2019
+  },
+  {
+    "title": "Spirited Away",
+    "genre": "Animation, Fantasy, Adventure",
+    "description": "A young girl wanders into a spirit world and must find a way to free herself and her transformed parents.",
+    "year": 2001
+  },
+  {
+    "title": "The Godfather",
+    "genre": "Crime, Drama",
+    "description": "The aging patriarch of an organized crime dynasty transfers control to his reluctant son.",
+    "year": 1972
+  },
+  {
+    "title": "Goodfellas",
+    "genre": "Crime, Drama, Biography",
+    "description": "The story of Henry Hill's rise and fall within the New York mob over several decades.",
+    "year": 1990
+  },
+  {
+    "title": "Schindler's List",
+    "genre": "Historical Drama, War",
+    "description": "A German businessman saves over a thousand Jewish refugees during the Holocaust by employing them in his factories.",
+    "year": 1993
+  },
+  {
+    "title": "Fight Club",
+    "genre": "Drama, Thriller",
+    "description": "An insomniac office worker and a soap salesman form an underground fight club that evolves into something far more dangerous.",
+    "year": 1999
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "genre": "Horror, Thriller, Crime",
+    "description": "An FBI trainee seeks the help of an imprisoned cannibal to catch a serial killer on the loose.",
+    "year": 1991
+  },
+  {
+    "title": "Whiplash",
+    "genre": "Drama, Music",
+    "description": "A young drummer at a prestigious music conservatory is pushed to his limits by a ruthless instructor.",
+    "year": 2014
+  },
+  {
+    "title": "Oppenheimer",
+    "genre": "Historical Drama, Biography",
+    "description": "The story of J. Robert Oppenheimer and the development of the atomic bomb during World War II.",
+    "year": 2023
+  },
+  {
+    "title": "Everything Everywhere All at Once",
+    "genre": "Sci-Fi, Comedy, Drama",
+    "description": "A Chinese-American laundromat owner is swept into an adventure spanning multiple universes to save existence itself.",
+    "year": 2022
+  },
+  {
+    "title": "No Country for Old Men",
+    "genre": "Crime, Thriller, Drama",
+    "description": "A hunter stumbles upon drug money in the Texas desert and is pursued by a relentless and merciless killer.",
+    "year": 2007
+  },
+  {
+    "title": "Get Out",
+    "genre": "Horror, Thriller",
+    "description": "A young Black man visits his white girlfriend's family estate and discovers a terrifying secret.",
+    "year": 2017
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "genre": "Action, Sci-Fi",
+    "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in a high-octane chase across the desert.",
+    "year": 2015
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "genre": "Comedy, Drama, Adventure",
+    "description": "A legendary concierge and his young protégé become embroiled in the theft of a priceless painting and a murder mystery.",
+    "year": 2014
+  },
+  {
+    "title": "Arrival",
+    "genre": "Sci-Fi, Drama, Mystery",
+    "description": "A linguist is recruited by the military to communicate with alien lifeforms who have landed on Earth.",
+    "year": 2016
+  }
+]

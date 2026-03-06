@@ -1,21 +1,89 @@
-# React + TypeScript + Vite
+# PopChoice Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React + TypeScript application for AI-powered movie recommendations.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🎬 AI-powered movie recommendations based on your preferences
+- 🔍 Semantic search for finding perfect movies
+- 💡 AI explanations for why each movie matches your mood
+- 🎨 Modern, responsive UI with smooth animations
+- ⚡ Built with Vite for fast development
 
-## React Compiler
+## Getting Started
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+### Prerequisites
 
-Note: This will impact Vite dev & build performances.
+- Node.js (v18 or higher)
+- npm or yarn
 
-## Expanding the ESLint configuration
+### Installation
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+1. Install dependencies:
+```bash
+npm install
+```
+
+2. Create a `.env` file:
+```bash
+cp .env.example .env
+```
+
+3. Update the `.env` file with your backend API URL:
+```
+VITE_API_URL=http://localhost:8000
+```
+
+### Running the App
+
+Start the development server:
+```bash
+npm run dev
+```
+
+The app will be available at `http://localhost:5173`
+
+### Building for Production
+
+```bash
+npm run build
+```
+
+The production-ready files will be in the `dist` folder.
+
+## Tech Stack
+
+- **React 19** - UI framework
+- **TypeScript** - Type safety
+- **Vite** - Build tool
+- **CSS3** - Styling with modern features
+
+## Project Structure
+
+```
+src/
+├── components/          # React components
+│   ├── SearchBar.tsx   # Search input component
+│   ├── MovieCard.tsx   # Individual movie card
+│   └── MovieList.tsx   # List of movie cards
+├── services/           # API services
+│   └── api.ts         # Backend API integration
+├── types/             # TypeScript types
+│   └── index.ts       # Type definitions
+├── App.tsx            # Main app component
+├── App.css            # App styles
+└── index.css          # Global styles
+```
+
+## API Integration
+
+The frontend connects to the PopChoice backend API:
+
+- `POST /recommend` - Get movie recommendations
+- `POST /explain` - Get AI explanation for a recommendation
+
+Make sure the backend is running before using the frontend.
+
 
 ```js
 export default defineConfig([
